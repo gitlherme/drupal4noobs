@@ -27,7 +27,7 @@
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+O Drupal4Noobs é um projeto que visa facilitar o entendimento do CMS Drupal, podendo servir como base para quem está começando a usá-lo. Aqui você encontra todas as informações necessárias para começar a usar o Drupal, entendendo as suas principais funcionalidades e como usar elas.
 
 <!-- ROADMAP OF PROJECT -->
 
@@ -60,12 +60,12 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Nome Completo** - _Especialidade_ - [@nickname](seutwitter)
+- **Guilherme Vieira** - _Frontend Drupal Developer_ - [@gitlherme](https://github.com/gitlherme)
 
 ---
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/footer_4noobs.svg" width="380">
+    <img src="https://raw.githubusercontent.com/gitlherme/4noobs/master/.github/footer_4noobs.svg" width="380">
   </a>
 </p>
