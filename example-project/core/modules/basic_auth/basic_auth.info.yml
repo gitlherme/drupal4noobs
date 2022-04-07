@@ -1,0 +1,12 @@
+name: 'HTTP Basic Authentication'
+type: module
+description: 'Supplies an HTTP Basic authentication provider.'
+package: Web services
+# version: VERSION
+dependencies:
+  - drupal:user
+
+# Information added by Drupal.org packaging script on 2022-03-21
+version: '9.3.9'
+project: 'drupal'
+datestamp: 1647899432

@@ -1,0 +1,10 @@
+name: Serialization
+type: module
+description: 'Provides a service for (de)serializing data to/from formats such as JSON and XML.'
+package: Web services
+# version: VERSION
+
+# Information added by Drupal.org packaging script on 2022-03-21
+version: '9.3.9'
+project: 'drupal'
+datestamp: 1647899432

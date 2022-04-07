@@ -1,0 +1,10 @@
+name: 'Theme test theme-settings.php'
+type: theme
+description: 'Test theme that extends theme settings options via theme-settings.php file'
+# version: VERSION
+base theme: false
+
+# Information added by Drupal.org packaging script on 2022-03-21
+version: '9.3.9'
+project: 'drupal'
+datestamp: 1647899432

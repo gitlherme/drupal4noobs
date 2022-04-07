@@ -1,0 +1,12 @@
+name: 'Views UI Test'
+type: module
+description: 'Test module for Views UI.'
+package: Testing
+# version: VERSION
+dependencies:
+  - drupal:views_ui
+
+# Information added by Drupal.org packaging script on 2022-03-21
+version: '9.3.9'
+project: 'drupal'
+datestamp: 1647899432

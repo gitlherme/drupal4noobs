@@ -1,0 +1,14 @@
+name: 'Testing config import'
+type: profile
+description: 'Tests install profiles in the config importer.'
+# version: VERSION
+hidden: true
+install:
+  - syslog
+themes:
+  - stark
+
+# Information added by Drupal.org packaging script on 2022-03-21
+version: '9.3.9'
+project: 'drupal'
+datestamp: 1647899432

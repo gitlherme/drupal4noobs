@@ -1,0 +1,14 @@
+name: 'Interface Translation'
+type: module
+description: 'Translates the built-in user interface.'
+configure: locale.translate_page
+package: Multilingual
+# version: VERSION
+dependencies:
+  - drupal:language
+  - drupal:file
+
+# Information added by Drupal.org packaging script on 2022-03-21
+version: '9.3.9'
+project: 'drupal'
+datestamp: 1647899432
