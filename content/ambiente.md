@@ -51,5 +51,13 @@ Você pode acessar a aplicação através de qualquer um dos endereços listados
 Ao acessar a aplicação, você deverá se deparar com uma tela como essa.
 ![](./assets/aparencia-inicial.png)
 
+## Acessando o Drupal como admin
+Para acessar o Drupal como admin, basta rodar o comando `lando drush uli` dentro do seu terminal, ele irá gerar uma url, basta copiar essa url e acessar, trocando o **default** pelo sua url localhost.
+![](./assets/drush-uli.png)
 
-Ir para [Content Types](/content/content-types.md)
+Após acessar como admin, você terá acesso ao painel de controle do Drupal, como mostrado na imagem abaixo.
+![](./assets/primeira-tela-admin.png)
+
+Após isso, podemos começar a entender melhor sobre o Drupal, indo para o próximo tópico.
+
+Ir para [Entendendo as principais features do Drupal](/content/entendendo-as-principais-features-do-drupal.md)
