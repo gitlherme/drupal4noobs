@@ -39,6 +39,8 @@ lando composer require drush/drush
 # Utilizando o Drush para instalar o Drupal
 lando drush site:install --db-url=mysql://drupal9:drupal9@database/drupal9 -y
 
+# Ao finalizar esse comando, uma senha admin será gerada, guarde ela.
+
 # Mostrando informações da aplicação criada
 lando info
 ```
@@ -52,12 +54,14 @@ Ao acessar a aplicação, você deverá se deparar com uma tela como essa.
 ![](./assets/aparencia-inicial.png)
 
 ## Acessando o Drupal como admin
-Para acessar o Drupal como admin, basta rodar o comando `lando drush uli` dentro do seu terminal, ele irá gerar uma url, basta copiar essa url e acessar, trocando o **default** pelo sua url localhost.
+Existem basicamente duas formas de acessar o Drupal como admin, a basta rodar o comando `lando drush uli` dentro do seu terminal, ele irá gerar uma url, basta copiar essa url e acessar, trocando o **default** pelo sua url localhost.
 ![](./assets/drush-uli.png)
+
+A segunda é acessar a rota `/user` e entrar com o usuário `admin` e a senha que foi gerada ao usar o comando `lando drush site:install --db-url=mysql://drupal9:drupal9@database/drupal9 -y` nos passos acima.
 
 Após acessar como admin, você terá acesso ao painel de controle do Drupal, como mostrado na imagem abaixo.
 ![](./assets/primeira-tela-admin.png)
 
 Após isso, podemos começar a entender melhor sobre o Drupal, indo para o próximo tópico.
 
-Ir para [Entendendo as principais features do Drupal](/content/entendendo-as-principais-features-do-drupal.md)
+Ir para [Conhecendo o Drush](/content/conhecendo-o-drush.md)
