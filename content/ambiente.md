@@ -42,7 +42,13 @@ lando drush site:install --db-url=mysql://drupal9:drupal9@database/drupal9 -y
 # Mostrando informações da aplicação criada
 lando info
 ```
+## Acessando a aplicação
+Após a aplicação ter sido criada, você pode rodar o comando `lando info` para saber onde a aplicação foi iniciada e o endereço para acessar.
+![](./assets/lando-info.png)
+Você pode acessar a aplicação através de qualquer um dos endereços listados acima.
 
+Ao acessar a aplicação, você deverá se deparar com uma tela como essa.
+![](./assets/aparencia-inicial.png)
 
 
 Ir para [Content Types](/content/content-types.md)
