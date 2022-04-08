@@ -1,7 +1,7 @@
 name: Minimal
 type: profile
 description: 'Build a custom site without pre-configured functionality. Suitable for advanced users.'
-# version: VERSION
+version: VERSION
 install:
   - node
   - block
@@ -10,8 +10,3 @@ install:
   - dynamic_page_cache
 themes:
   - stark
-
-# Information added by Drupal.org packaging script on 2022-03-21
-version: '9.3.9'
-project: 'drupal'
-datestamp: 1647899432

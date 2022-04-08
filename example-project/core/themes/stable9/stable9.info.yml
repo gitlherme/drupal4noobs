@@ -2,7 +2,7 @@ name: Stable 9
 type: theme
 description: A base theme using Drupal 9.0.0's core markup and CSS.
 package: Core
-# version: VERSION
+version: VERSION
 base theme: false
 hidden: true
 
@@ -324,8 +324,3 @@ libraries-override:
 libraries-extend:
   tour/tour:
     - stable9/tour
-
-# Information added by Drupal.org packaging script on 2022-03-21
-version: '9.3.9'
-project: 'drupal'
-datestamp: 1647899432

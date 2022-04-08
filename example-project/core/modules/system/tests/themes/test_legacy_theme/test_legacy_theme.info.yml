@@ -1,7 +1,7 @@
 name: 'Test legacy theme'
 type: theme
 description: 'Test theme to test deprecated functionality.'
-# version: VERSION
+version: VERSION
 package: Testing
 base theme: test_theme
 
@@ -14,8 +14,3 @@ libraries-override:
 libraries-extend:
   theme_test/another_deprecated_library:
     - test_legacy_theme/library
-
-# Information added by Drupal.org packaging script on 2022-03-21
-version: '9.3.9'
-project: 'drupal'
-datestamp: 1647899432

@@ -2,9 +2,4 @@ name: 'Image access test for hidden fields'
 type: module
 description: 'Provides an entity field access hook implementation to set an image field as hidden.'
 package: Testing
-# version: VERSION
-
-# Information added by Drupal.org packaging script on 2022-03-21
-version: '9.3.9'
-project: 'drupal'
-datestamp: 1647899432
+version: VERSION

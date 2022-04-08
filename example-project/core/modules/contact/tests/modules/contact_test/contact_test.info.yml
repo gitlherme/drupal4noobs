@@ -2,11 +2,6 @@ name: 'Contact test module'
 type: module
 description: 'Contains test contact form.'
 package: Testing
-# version: VERSION
+version: VERSION
 dependencies:
   - drupal:contact
-
-# Information added by Drupal.org packaging script on 2022-03-21
-version: '9.3.9'
-project: 'drupal'
-datestamp: 1647899432

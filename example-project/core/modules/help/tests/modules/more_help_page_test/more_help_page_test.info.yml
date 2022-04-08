@@ -2,10 +2,5 @@ name: 'More Help Page Test'
 type: module
 description: 'Module to test the help page.'
 package: Testing
-# version: VERSION
+version: VERSION
 hidden: true
-
-# Information added by Drupal.org packaging script on 2022-03-21
-version: '9.3.9'
-project: 'drupal'
-datestamp: 1647899432

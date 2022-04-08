@@ -1,9 +1,4 @@
 name: Test Module Theme Depends on with Compatible Constraint
 type: module
 package: Testing
-# version: '8.x-1.2'
-
-# Information added by Drupal.org packaging script on 2022-03-21
-version: '9.3.9'
-project: 'drupal'
-datestamp: 1647899432
+version: '8.x-1.2'

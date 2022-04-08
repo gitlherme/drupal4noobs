@@ -4,8 +4,3 @@ base theme: stark
 dependencies:
   - test_module_compatible_constraint (>=8.x-1.x)
   - test_module_incompatible_constraint (>=8.x-2.x)
-
-# Information added by Drupal.org packaging script on 2022-03-21
-version: '9.3.9'
-project: 'drupal'
-datestamp: 1647899432

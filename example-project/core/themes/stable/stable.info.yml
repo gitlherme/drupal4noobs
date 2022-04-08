@@ -2,7 +2,7 @@ name: Stable
 type: theme
 description: A default base theme using Drupal 8.0.0's core markup and CSS.
 package: Core
-# version: VERSION
+version: VERSION
 base theme: false
 hidden: true
 
@@ -308,8 +308,3 @@ libraries-extend:
     - stable/drupal.user
   tour/tour:
     - stable/tour
-
-# Information added by Drupal.org packaging script on 2022-03-21
-version: '9.3.9'
-project: 'drupal'
-datestamp: 1647899432
