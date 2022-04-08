@@ -4,4 +4,4 @@ Drupal é um CMS* de código aberto, baseado em PHP, desenvolvido por a equipe d
 
 *: CMS vem de Contet Management System, ou sistema de gerenciamento de conteúdo, existem diversos CMS, sendo o mais famoso deles o Wordpress.
 
-Ir para [Instalação do Drupal](/content/instalacao-do-drupal.md)
+Ir para [Ambiente](/content/ambiente.md)
