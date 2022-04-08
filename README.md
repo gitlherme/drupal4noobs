@@ -34,10 +34,10 @@ O Drupal4Noobs é um projeto que visa facilitar o entendimento do CMS Drupal, po
 ## ROADMAP
 
 - [O que é o Drupal](/content/o-que-e-drupal.md)
-- [Instalação do Drupal](/content/instalacao-do-drupal.md)
+- [Configurando o ambiente](/content/ambiente.md)
   - [Requisitos](/content/instalacao-do-drupal.md#requisitos)
-  - [Instalação](/content/instalacao-do-drupal.md#instalacao)
-  - [Configuração](/content/instalacao-do-drupal.md#configuracao)
+  - [Instalação do Lando](/content/instalacao-do-drupal.md#instalacao-do-lando)
+  - [Criando a aplicação Drupal](/content/instalacao-do-drupal.md#criando-a-aplicacao-drupal)
   - [Configuração do Banco de Dados](/content/instalacao-do-drupal.md#configuracao-do-banco-de-dados)
 - [Content Types](/content/content-types.md)
   - [Construindo um Content Type](/content/content-types.md#construindo-um-content-type)
