@@ -1,4 +1,4 @@
-# Instalação do Drupal
+# Configurando o ambiente
 
 
 ## Requisitos
