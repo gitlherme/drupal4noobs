@@ -39,14 +39,13 @@ O Drupal4Noobs é um projeto que visa facilitar o entendimento do CMS Drupal, po
   - [Instalação do Lando](/content/ambiente.md#instalacao-do-lando)
   - [Criando a aplicação Drupal](/content/ambiente.md#criando-a-aplicacao-drupal)
   - [Acessando a aplicação](/content/ambiente.md#acessando-a-aplicacao)
-- [Content Types](/content/content-types.md)
-  - [Construindo um Content Type](/content/content-types.md#construindo-um-content-type)
-- [Nodes](/content/nodes.md)
-- [Views](/content/views.md)
-- [Modules](/content/modules.md)
-- [Themes](/content/themes.md)
-  - [Subthemes](/content/themes.md#subthemes)
-  - [Construindo um tema](/content/themes.md#construindo-um-tema)
+- [Content](/content/content.md)
+- [Structure](/content/structure.md)
+- [Appearance](/content/appearance.md)
+- [Extend](/content/extend.md)
+- [Configuration](/content/configuration.md)
+- [People](/content/people.md)
+- [Reports](/content/reports.md)
 
 <!-- CONTRIBUTING -->
 ## Como Contribuir
